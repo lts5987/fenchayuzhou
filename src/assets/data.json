@@ -1,0 +1,447 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "lineup": {
+      "id": "67e536042fadd0e25a9c72b0",
+      "account_uid": "377984781",
+      "nickname": "萤火W",
+      "avatar_url": "https://fastcdn.hoyoverse.com/static-resource-v2/2024/12/16/d6b608b980095894ed31c201eceef206_4104006635507494283.png",
+      "certification": 0,
+      "certification_url": "",
+      "title": "遐蝶烧血流",
+      "tags": [],
+      "avatar_group": [],
+      "description": "主要靠方程的【断灭花】打伤害，遐蝶自身的技能机制会让全队角色的血量变动非常频繁，能给方程高效充能。如果队伍中没有万敌，就不用选加权奇物【利他者的末路】；低难度没有生存压力可以不拿【营养过剩】。\n金血祝颂优先选择【遐蝶】的【终凋零的】、【归途上的蝴蝶】和【万敌】的【剑为人怨】、【弑杀，万千仇敌】。",
+      "like_cnt": "211",
+      "comment_cnt": "0",
+      "favour_cnt": "0",
+      "help_cnt": "0",
+      "view_cnt": "68",
+      "is_favour": false,
+      "is_like": false,
+      "is_helped": false,
+      "status": 10,
+      "is_deleted": false,
+      "created_at": "1744160373",
+      "last_edit": "1743074820",
+      "lineup_type": "RogueTourn",
+      "game_level": 0,
+      "has_follow": false,
+      "audit_status": 1,
+      "challenge_info": {
+        "buff_desc": "",
+        "max_floor_desc": "",
+        "max_floor": 0,
+        "stars": 0,
+        "group_info": null,
+        "buff_name": "",
+        "buff_icon": "",
+        "sub_maze_buff_list": []
+      },
+      "schedule_group": {
+        "group_id": "0",
+        "name_mi18n": "",
+        "schedule_begin_time": "",
+        "schedule_end_time": "",
+        "maze_buff_name_mi18n": "",
+        "maze_buff_desc_mi18n": "",
+        "is_now": false,
+        "is_show": false,
+        "floor_nums": 0,
+        "sub_maze_buff_list": []
+      },
+      "star_num": 0,
+      "round_num": 0,
+      "up_ids": [
+        "1403"
+      ],
+      "hyl_link": "",
+      "floor": 0,
+      "challenge_time": {
+        "year": 0,
+        "month": 0,
+        "day": 0,
+        "hour": 0,
+        "minute": 0
+      },
+      "story_info": {
+        "info": null,
+        "buff_list": [],
+        "points": "0"
+      },
+      "version": 0,
+      "topic_list": {
+        "topics": []
+      },
+      "post_id": "0",
+      "is_kol": false,
+      "boss_info": {
+        "info": null,
+        "buff_list": [],
+        "points": "0"
+      },
+      "publish_type": "LineupPublishTypeRecord",
+      "points": "0",
+      "challenge_time_node2": {
+        "year": 0,
+        "month": 0,
+        "day": 0,
+        "hour": 0,
+        "minute": 0
+      },
+      "local_video_status": 0,
+      "has_local_video": false,
+      "local_video_cover": "",
+      "lineup_rogue_tourn_info": {
+        "group_list": [
+          {
+            "avatar_list": [
+              {
+                "item_id": "1407",
+                "item_name": "遐蝶",
+                "icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/984cbf7c3571a91b1877f507bf17bc90.png",
+                "damage_type": "32",
+                "rarity": "5",
+                "avatar_base_type": "8",
+                "wiki_url": "https://wiki.hoyolab.com/pc/hsr/entry/3560",
+                "new_icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f7eaaa1777f6f70a2f3de53ed810709b.png",
+                "second_avatars": [],
+                "avatar_number_type": "AvatarNumberType_MainCarry",
+                "base_type": 0,
+                "rank": 0,
+                "is_avatar": true,
+                "survival_slot": []
+              },
+              {
+                "item_id": "1403",
+                "item_name": "缇宝",
+                "icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5d1bc2875dd980d69786b31480a89449.png",
+                "damage_type": "32",
+                "rarity": "5",
+                "avatar_base_type": "4",
+                "wiki_url": "",
+                "new_icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/4c8e55ba5ef85aaa6a48d75b599dddfa.png",
+                "second_avatars": [],
+                "avatar_number_type": "AvatarNumberType_Support",
+                "base_type": 0,
+                "rank": 0,
+                "is_avatar": true,
+                "survival_slot": []
+              },
+              {
+                "item_id": "8008",
+                "item_name": "开拓者",
+                "icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/bd8f2a299f746ebb2fb03cd09507a8af.png",
+                "damage_type": "4",
+                "rarity": "5",
+                "avatar_base_type": "8",
+                "wiki_url": "https://wiki.hoyolab.com/pc/hsr/entry/3287",
+                "new_icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/11a4ca1d233f98927dcb8b969c21f62b.png",
+                "second_avatars": [],
+                "avatar_number_type": "AvatarNumberType_Support",
+                "base_type": 0,
+                "rank": 0,
+                "is_avatar": true,
+                "survival_slot": []
+              },
+              {
+                "item_id": "1203",
+                "item_name": "罗刹",
+                "icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/953a75df178c9585ba36d18886eb92bd.png",
+                "damage_type": "64",
+                "rarity": "5",
+                "avatar_base_type": "7",
+                "wiki_url": "https://wiki.hoyolab.com/pc/hsr/entry/711",
+                "new_icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9f3de7e78dbbfcb1eaeb290b2447a376.png",
+                "second_avatars": [
+                  {
+                    "item_id": "1301",
+                    "item_name": "加拉赫",
+                    "icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/eb863fc319eae2489799959012bf9c1b.png",
+                    "damage_type": "2",
+                    "rarity": "4",
+                    "avatar_base_type": "7",
+                    "wiki_url": "https://wiki.hoyolab.com/pc/hsr/entry/1924",
+                    "new_icon_url": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/d6eee295225c0a5d9f3654cd945cb28b.png",
+                    "second_avatars": [],
+                    "avatar_number_type": "AvatarNumberType_Default",
+                    "base_type": 0,
+                    "rank": 0,
+                    "is_avatar": true,
+                    "survival_slot": []
+                  },
+                  {
+                    "item_id": "0",
+                    "item_name": "",
+                    "icon_url": "",
+                    "damage_type": "0",
+                    "rarity": "0",
+                    "avatar_base_type": "0",
+                    "wiki_url": "",
+                    "new_icon_url": "",
+                    "second_avatars": [],
+                    "avatar_number_type": "AvatarNumberType_Default",
+                    "base_type": 0,
+                    "rank": 0,
+                    "is_avatar": false,
+                    "survival_slot": [
+                      "7"
+                    ]
+                  }
+                ],
+                "avatar_number_type": "AvatarNumberType_Survive",
+                "base_type": 0,
+                "rank": 0,
+                "is_avatar": true,
+                "survival_slot": []
+              }
+            ]
+          }
+        ],
+        "formula_list": [
+          {
+            "id": 2104003,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9da59e54bae08dd158275465da0ea2b0.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3d763083cb0e016b152f6abe4ba5f37a.png",
+            "name": "哀歌祭祷",
+            "formula_category": "4",
+            "main_buff_type_id": "121",
+            "main_buff_num": "6",
+            "sub_buff_type_id": "125",
+            "sub_buff_num": "4",
+            "desc": "行动序列上出现【断灭花】：记录我方获得的【\u003cu\u003e耀变\u003c/u\u003e】，行动时，对敌方全体目标造成等同于记录值\u003ccolor=#f29e38ff\u003e5000%\u003c/color\u003e+\u003ccolor=#f29e38ff\u003e3000%\u003c/color\u003e\u003cu\u003e基础伤害\u003c/u\u003e的火属性伤害并清空记录值， 我方每有1层【\u003cu\u003e执念\u003c/u\u003e】，速度提高\u003ccolor=#f29e38ff\u003e1%\u003c/color\u003e。我方目标进入战斗或陷入无法战斗状态/忆灵被召唤或消失时，为我方全体目标充能等同于生命上限\u003ccolor=#f29e38ff\u003e25%\u003c/color\u003e的【\u003cu\u003e耀变\u003c/u\u003e】。",
+            "simple_desc": "行动序列上出现【断灭花】，行动时基于【\u003cu\u003e耀变\u003c/u\u003e】与【\u003cu\u003e执念\u003c/u\u003e】对敌方全体造成伤害。我方目标进入战斗/被召唤/被消灭时，为全体【\u003cu\u003e耀变\u003c/u\u003e】充能。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5059e2fb3d8b36ced88a00b84e58792c.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a33c526b158e79fb3fdb423d72fc9cae.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          },
+          {
+            "id": 2103005,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9da59e54bae08dd158275465da0ea2b0.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/c92b45bf5a0e444b52d757a04de9b34d.png",
+            "name": "围炉氏族",
+            "formula_category": "3",
+            "main_buff_type_id": "121",
+            "main_buff_num": "4",
+            "sub_buff_type_id": "129",
+            "sub_buff_num": "2",
+            "desc": "我方目标【\u003cu\u003e执念\u003c/u\u003e】上限提高\u003ccolor=#f29e38ff\u003e4\u003c/color\u003e层，且全队每层【\u003cu\u003e执念\u003c/u\u003e】额外提高\u003ccolor=#f29e38ff\u003e0.4%\u003c/color\u003e生命上限，击破敌方目标弱点时，我方全体目标获得\u003ccolor=#f29e38ff\u003e3\u003c/color\u003e层【\u003cu\u003e执念\u003c/u\u003e】。",
+            "simple_desc": "【\u003cu\u003e执念\u003c/u\u003e】上限提高，且全队每层【\u003cu\u003e执念\u003c/u\u003e】额外提高生命上限，击破敌方目标时，我方全体获得【\u003cu\u003e执念\u003c/u\u003e】。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5059e2fb3d8b36ced88a00b84e58792c.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/d4ad4c5c30ec8b64cacb760563778bef.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          },
+          {
+            "id": 2103023,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/df0f4eddd5165fb83cdb41d64dbdb9df.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/748922acb4f8f49ff03ea8bafe09f51b.png",
+            "name": "忆种培育师",
+            "formula_category": "3",
+            "main_buff_type_id": "127",
+            "main_buff_num": "4",
+            "sub_buff_type_id": "121",
+            "sub_buff_num": "2",
+            "desc": "【\u003cu\u003e蝶魄\u003c/u\u003e】的真实伤害倍率提高原倍率的\u003ccolor=#f29e38ff\u003e60%\u003c/color\u003e，攻击次数增加\u003ccolor=#f29e38ff\u003e4\u003c/color\u003e次。忆灵施放攻击后可造成【\u003cu\u003e蝶魄\u003c/u\u003e】的真实伤害并消耗其攻击次数。",
+            "simple_desc": "【\u003cu\u003e蝶魄\u003c/u\u003e】的真实伤害提高。忆灵攻击会附加【\u003cu\u003e蝶魄\u003c/u\u003e】的真实伤害。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/0bf8ad0e2732b28b3ce967e775eb23e7.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5059e2fb3d8b36ced88a00b84e58792c.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          },
+          {
+            "id": 2102008,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9da59e54bae08dd158275465da0ea2b0.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/514fd5ede20e92cdc40d8a24fdcead6f.png",
+            "name": "吟游诗人",
+            "formula_category": "2",
+            "main_buff_type_id": "121",
+            "main_buff_num": "2",
+            "sub_buff_type_id": "128",
+            "sub_buff_num": "2",
+            "desc": "我方【\u003cu\u003e执念\u003c/u\u003e】层数超过\u003ccolor=#f29e38ff\u003e70\u003c/color\u003e层时，使终结技伤害提高\u003ccolor=#f29e38ff\u003e75%\u003c/color\u003e，忆灵伤害提高\u003ccolor=#f29e38ff\u003e75%\u003c/color\u003e。",
+            "simple_desc": "我方全体【\u003cu\u003e执念\u003c/u\u003e】层数超过\u003ccolor=#f29e38ff\u003e70\u003c/color\u003e层时，使终结技与忆灵造成的伤害提高。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5059e2fb3d8b36ced88a00b84e58792c.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3e9c8d9a74d5928012016f2bba0440e8.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          }
+        ],
+        "second_formula_list": [
+          {
+            "id": 2104004,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9da59e54bae08dd158275465da0ea2b0.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2f568d0304d534809b9d33e2091bb014.png",
+            "name": "护誓者",
+            "formula_category": "4",
+            "main_buff_type_id": "121",
+            "main_buff_num": "6",
+            "sub_buff_type_id": "124",
+            "sub_buff_num": "4",
+            "desc": "我方全体累计\u003ccolor=#f29e38ff\u003e12\u003c/color\u003e次回合结束时，编队中的第1位角色及其忆灵行动提前100%，且在之后的\u003ccolor=#f29e38ff\u003e1\u003c/color\u003e回合，回合结束后使自身获得额外回合，在该额外回合内施放攻击后，对攻击目标造成等同于攻击力\u003ccolor=#f29e38ff\u003e600%\u003c/color\u003e的附加伤害，我方每有1层【\u003cu\u003e执念\u003c/u\u003e】，该伤害倍率提高原倍率的\u003ccolor=#f29e38ff\u003e1%\u003c/color\u003e。",
+            "simple_desc": "我方每经过\u003ccolor=#f29e38ff\u003e12\u003c/color\u003e回合，编队中的第1位角色及其忆灵行动提前，并使自身获得额外回合，攻击后基于【\u003cu\u003e执念\u003c/u\u003e】层数造成伤害。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5059e2fb3d8b36ced88a00b84e58792c.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a1f70c6bb9713f81435821506865b4db.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          },
+          {
+            "id": 2103010,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/c667125713638947fb7565257034f746.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3986bfec0b0d7af02a2e57775a1a8582.png",
+            "name": "日冕不死鸟",
+            "formula_category": "3",
+            "main_buff_type_id": "125",
+            "main_buff_num": "4",
+            "sub_buff_type_id": "127",
+            "sub_buff_num": "2",
+            "desc": "【\u003cu\u003e耀变\u003c/u\u003e】充能效率提高\u003ccolor=#f29e38ff\u003e50%\u003c/color\u003e。【\u003cu\u003e蝶魄\u003c/u\u003e】状态下施放普攻/战技发动攻击后，对攻击目标造成\u003ccolor=#f29e38ff\u003e100%\u003c/color\u003e的【\u003cu\u003e耀变\u003c/u\u003e】伤害。",
+            "simple_desc": "【\u003cu\u003e耀变\u003c/u\u003e】充能效率提高。【\u003cu\u003e蝶魄\u003c/u\u003e】状态下施放普攻/战技发动攻击后，会对目标造成【\u003cu\u003e耀变\u003c/u\u003e】伤害。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a33c526b158e79fb3fdb423d72fc9cae.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/0bf8ad0e2732b28b3ce967e775eb23e7.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          },
+          {
+            "id": 2103004,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9da59e54bae08dd158275465da0ea2b0.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2f568d0304d534809b9d33e2091bb014.png",
+            "name": "信史追查官",
+            "formula_category": "3",
+            "main_buff_type_id": "121",
+            "main_buff_num": "4",
+            "sub_buff_type_id": "124",
+            "sub_buff_num": "2",
+            "desc": "我方目标受到攻击后，我方全体目标速度提高\u003ccolor=#f29e38ff\u003e35%\u003c/color\u003e，持续\u003ccolor=#f29e38ff\u003e2\u003c/color\u003e回合，并获得\u003ccolor=#f29e38ff\u003e2\u003c/color\u003e层【\u003cu\u003e会心\u003c/u\u003e】效果。忆灵受到攻击时不会失去【\u003cu\u003e会心\u003c/u\u003e】。",
+            "simple_desc": "受到攻击后，我方全体速度提高，并获得【\u003cu\u003e会心\u003c/u\u003e】效果。忆灵受到攻击时不会失去【\u003cu\u003e会心\u003c/u\u003e】。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/5059e2fb3d8b36ced88a00b84e58792c.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a1f70c6bb9713f81435821506865b4db.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          },
+          {
+            "id": 2102014,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/c667125713638947fb7565257034f746.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/2f568d0304d534809b9d33e2091bb014.png",
+            "name": "金血愚子",
+            "formula_category": "2",
+            "main_buff_type_id": "125",
+            "main_buff_num": "2",
+            "sub_buff_type_id": "124",
+            "sub_buff_num": "2",
+            "desc": "敌方目标被消灭时，使【\u003cu\u003e耀变\u003c/u\u003e】 充能效率提高\u003ccolor=#f29e38ff\u003e18%\u003c/color\u003e，最多叠加\u003ccolor=#f29e38ff\u003e3\u003c/color\u003e层。并使我方全体回复等同于生命上限\u003ccolor=#f29e38ff\u003e30%\u003c/color\u003e的生命值。",
+            "simple_desc": "敌方目标被消灭时，使【\u003cu\u003e耀变\u003c/u\u003e】 充能效率提高。并使我方全体回复生命值。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a33c526b158e79fb3fdb423d72fc9cae.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a1f70c6bb9713f81435821506865b4db.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          },
+          {
+            "id": 2102029,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/df0f4eddd5165fb83cdb41d64dbdb9df.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3d763083cb0e016b152f6abe4ba5f37a.png",
+            "name": "金实秘仪",
+            "formula_category": "2",
+            "main_buff_type_id": "127",
+            "main_buff_num": "2",
+            "sub_buff_type_id": "125",
+            "sub_buff_num": "2",
+            "desc": "我方目标造成的普攻/战技伤害提高\u003ccolor=#f29e38ff\u003e80%\u003c/color\u003e，施放普攻时，若生命值百分比大于等于\u003ccolor=#f29e38ff\u003e50%\u003c/color\u003e，则消耗等同于生命上限\u003ccolor=#f29e38ff\u003e10%\u003c/color\u003e的生命值并额外恢复1点战技点。",
+            "simple_desc": "造成的普攻/战技伤害提高，施放普攻时，若生命值百分比大于等于\u003ccolor=#f29e38ff\u003e50%\u003c/color\u003e，消耗生命值并额外恢复战技点。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/0bf8ad0e2732b28b3ce967e775eb23e7.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/a33c526b158e79fb3fdb423d72fc9cae.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          },
+          {
+            "id": 2102019,
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/9c03863498d957e5a750973ee1ab50ae.png",
+            "sub_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/514fd5ede20e92cdc40d8a24fdcead6f.png",
+            "name": "诸神诡辩家",
+            "formula_category": "2",
+            "main_buff_type_id": "126",
+            "main_buff_num": "2",
+            "sub_buff_type_id": "128",
+            "sub_buff_num": "2",
+            "desc": "我方目标施放终结技后，使下次施放攻击后，对攻击目标造成\u003ccolor=#f29e38ff\u003e1\u003c/color\u003e次等同于攻击力\u003ccolor=#f29e38ff\u003e240%\u003c/color\u003e的【\u003cu\u003e回味\u003c/u\u003e】伤害。",
+            "simple_desc": "施放终结技后，下次施放攻击后造成【\u003cu\u003e回味\u003c/u\u003e】伤害。",
+            "main_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/f70c86f524c7a5c6b930da71297844a6.png",
+            "sub_buff_small_icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/3e9c8d9a74d5928012016f2bba0440e8.png",
+            "type_id_list": [],
+            "is_weekly_tourn": false
+          }
+        ],
+        "formula_description": "",
+        "rogue_tourn_buff_list": [],
+        "rogue_tourn_buff_description": "",
+        "rogue_tourn_avatar_group_description": "",
+        "miracle_list": [
+          {
+            "id": 9519,
+            "name": "故事的现在时",
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/50bb3c3361c1202c1b3753db240ea7e8.png",
+            "rank": 5,
+            "desc": "\u003ccolor=#f29e38ff\u003e「记忆」\u003c/color\u003e命途的忆灵每次消失或累计经过8回合后，使忆师的攻击力/生命上限/速度/防御力提高，提高数值等同于忆灵的8%，最多使忆师的上述属性提高基础数值的60%",
+            "damage_type": [],
+            "type": [
+              8
+            ]
+          },
+          {
+            "id": 9500,
+            "name": "营养过剩",
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6cb5b66d3064e8ea28379c3f03d209c5.png",
+            "rank": 5,
+            "desc": "我方目标受到来自\u003ccolor=#f29e38ff\u003e「丰饶」\u003c/color\u003e 命途角色的治疗后，获得等同于溢出治疗量100%的可叠加护盾，该护盾上限等同于我方目标生命上限的50%，回合结束时移除",
+            "damage_type": [],
+            "type": [
+              7
+            ]
+          }
+        ],
+        "second_miracle_list": [
+          {
+            "id": 9518,
+            "name": "利他者的末路",
+            "icon": "https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u6975c/6352a34c38e23003bd4e23b0bf9f5e32.png",
+            "rank": 5,
+            "desc": "\u003ccolor=#f29e38ff\u003e「虚数」\u003c/color\u003e 属性我方目标累计生命降低值，在任意单位行动后，为随机\u003ccolor=#f29e38ff\u003e「量子」\u003c/color\u003e 属性我方目标恢复等同于该值50%的生命值，每回合的治疗量不超过治疗者生命上限的50%。\u003ccolor=#f29e38ff\u003e「量子」\u003c/color\u003e属性我方目标累计生命降低值，在任意单位行动后，使随机\u003ccolor=#f29e38ff\u003e「虚数」\u003c/color\u003e 属性我方目标下次施放攻击后，对攻击目标造成等同于该值300%的量子属性附加伤害",
+            "damage_type": [
+              64,
+              32
+            ],
+            "type": []
+          }
+        ],
+        "miracle_avatar_data_description": "",
+        "rpg_game_big_version": "3.2",
+        "rpg_game_lineup_tourn_filter": "",
+        "is_expired": false,
+        "highlight_title": "",
+        "is_weekly_tourn": false,
+        "create_by_env": "TournLineupEnv_Default",
+        "published_env_list": [],
+        "online_visible": false,
+        "rpg_game_big_version_int": 0,
+        "rpg_game_lineup_tourn_filter_int": 0,
+        "tourn_uuid": "",
+        "share_code": ""
+      },
+      "lang": "zh-cn",
+      "weight": 0,
+      "game_data": {
+        "interact": {
+          "favour": "218",
+          "game_use": "2969"
+        }
+      },
+      "mongo_json": "",
+      "comment_v2_app_id": "0",
+      "use_comment_v2": false,
+      "order": 0
+    },
+    "login": false
+  }
+}
