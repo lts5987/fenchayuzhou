@@ -1,11 +1,27 @@
 <script setup>
 import { ref, reactive, computed, onMounted, watch } from "vue";
+import { initializeApp } from 'firebase/app'
+import { getFirestore, doc, getDoc, setDoc } from 'firebase/firestore'
 import defaultData from '@/assets/data.json';
+
+const firebaseApp = initializeApp({
+  apiKey: 'AIzaSyA2RLK6hoiaJ7pdlNOXOnD_BwS62ABqC50',
+  authDomain: 'fenchayuzhou.firebaseapp.com',
+  projectId: 'fenchayuzhou'
+});
+
+const db = getFirestore(firebaseApp);
+const listRef = doc(db, 'fenchayuzhou', 'strategy');
+
 if (!localStorage.getItem('list'))
   localStorage.setItem('list', JSON.stringify([defaultData]));
 const list = reactive(JSON.parse(localStorage.getItem('list')));
 const url = 'https://hoyolabapi.vercel.app/api/fenchayuzhou?id=';
 
+// setDoc(listRef, {})
+//   .then(d => {
+//     console.log(d)
+//   })
 const base_type = {
   '1': '毁灭',
   '2': '巡猎',
@@ -82,10 +98,18 @@ watch(id, () => {
   loaded_formula.value = formula_list_main.value[0];
   loaded_miracle.value = miracle_list_main.value[0];
 });
-onMounted(() => {
+onMounted(async () => {
   loaded_formula.value = formula_list_main.value[0];
   loaded_miracle.value = miracle_list_main.value[0];
-})
+
+  const listData = (await getDoc(listRef)).data().list;
+  for (const ld of listData) {
+    if (list.findIndex(d => d.id == ld.id) == -1) {
+      list.push(ld);
+      localStorage.setItem('list', JSON.stringify(list));
+    }
+  }
+});
 </script>
 
 <template>
